@@ -26,7 +26,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		/// ↓更新処理ここから
 		///
-		std::cout << "PullRequest ブランチ　改zoy\n";
+		std::cout << "PullRequest ブランチ　改zen\n";
 		///
 		/// ↑更新処理ここまで
 		///
